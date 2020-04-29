@@ -159,6 +159,7 @@ class BanqueApplicationController extends AbstractController
     
     public function consulterPage(Request $request,$codecompte, PaginatorInterface $paginator)
     {
+        $this->denyAccessUnlessGranted('ROLE_ADMIN');
        
         $form = $this ->createFormBuilder()
                       ->add('codeCompte')
