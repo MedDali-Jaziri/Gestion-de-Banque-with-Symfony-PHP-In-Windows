@@ -1,6 +1,8 @@
 # Gestion-de-Banque-with-Symfony-PHP-In-Windows
 
-Bank management carried out by Mohamed Ali Jaziri this project was carried out by the framework symfony this project you can run it on linux and this the link https://github.com/MedDali-Jaziri/Gestion-de-Banque-with-Symfony-PHP-Linux-18.04-LTS.
+Bank management carried out by Mohamed Ali Jaziri this project was carried out by the framework symfony this project you can run it on linux and this the link https://github.com/MedDali-Jaziri/Gestion-de-Banque-with-Symfony-PHP-Linux-18.04-LTS. Also you must watch all the video decription for
+understand the demo for this WebSite in my channel Youtube
+https://www.youtube.com/watch?v=YIZzEBJPp58&amp;t=12s
  
 
 # Bank management in Symfony Framework
